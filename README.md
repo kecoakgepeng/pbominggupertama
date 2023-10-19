@@ -1,11 +1,6 @@
 #pbo_minggu_pertama
 
-Tugas Mingguan #1 - PBO kelas F
-
-NIM    : 2200018236
-
-Kelas  : F
-
+Tugas Mingguan #1 - PBO
 
 Buatlah dua buah kode program dengan membandingkan coding dari C++ ke Java yang berisi:
 1.	Main Program
